@@ -1,10 +1,1 @@
-# projekt_pz
-
-# Jak odpalić
-
-# Jak przetestować
-
-# Opis działania
-
-# Propozycje TODO
-
+# Aktualne repozytorium aplikacji: https://github.com/pww24/PZ
